@@ -34,7 +34,7 @@ body {
 
 .component {
    font-size: 30px;
-   height: 87vh;
+   /* height: 87vh; */
    display: flex;
    justify-content: center;
    align-items: center;
